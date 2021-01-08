@@ -1,0 +1,15 @@
+{
+    "name": "Article pour Projet",
+    "short_name": "ArtProj",
+    "start_url": "index.html",
+    "display": "standalone",
+    "theme_color":"red",
+    "background_color":"red",
+    "icons": [{
+        "src": "images/EA.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }
+]
+  }
